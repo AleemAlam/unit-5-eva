@@ -1,0 +1,14 @@
+{
+  "games": [
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": true,
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 1
+    }
+  ]
+}
